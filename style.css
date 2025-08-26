@@ -1,7 +1,6 @@
 body {
     font-family: Sofia, sans-serif;
     background-color: blueviolet;
-
 }
 
 h1{
@@ -14,7 +13,6 @@ p{
     color: darkblue;
     font-size: 18px;
 }
-
 
 #p1{
     padding: 10px;
@@ -30,4 +28,39 @@ button{
     margin-top: 10px;
     margin-bottom: 10px;
     border: none;
+}
+
+#buscador{
+    padding: 5px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#nombre{
+    padding: 5px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#desc{
+    padding: 5px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+header{
+    background-color: aquamarine;
+    color: black;
+    padding: 50px;
+    text-align: center;
 }
